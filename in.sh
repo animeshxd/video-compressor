@@ -33,5 +33,5 @@ echo ""
 echo " it can compress only one video file at same time"
 echo ""
 echo " don't move too many video files "
-
+ls
 
