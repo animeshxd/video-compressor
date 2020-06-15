@@ -35,3 +35,6 @@ echo ""
 echo " don't move too many video files "
 ls
 
+mkdir /sdcard/ffmpeg
+mkdir /sdcard/ffmpeg
+mkdir /sdcard/ffmpeg
