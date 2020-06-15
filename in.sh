@@ -19,10 +19,6 @@ chmod +x crf24
 chmod +x crf28
 chmod +x crf32
 
-termux-setup-storage 
-termux-setup-storage 
-termux-setup-storage 
-
 mkdir /sdcard/ffmpeg
 
 echo ""
@@ -34,7 +30,3 @@ echo " it can compress only one video file at same time"
 echo ""
 echo " don't move too many video files "
 ls
-
-mkdir /sdcard/ffmpeg
-mkdir /sdcard/ffmpeg
-mkdir /sdcard/ffmpeg
