@@ -7,11 +7,11 @@ cd
 mkdir compressor
 cd compressor
 
-echo "ffmpeg -i /sdcard/ffmpeg/* -crf 14 output_crf14.mp4" > crf14
-echo "ffmpeg -i /sdcard/ffmpeg/* -crf 18 output_crf18.mp4" > crf18
-echo "ffmpeg -i /sdcard/ffmpeg/* -crf 24 output_crf24.mp4" > crf24
-echo "ffmpeg -i /sdcard/ffmpeg/* -crf 28 output_crf28.mp4" > crf28
-echo "ffmpeg -i /sdacrd/ffmpeg/* -crf 32 output_crf32.mp4" > crf32
+echo "ffmpeg -i /sdcard/ffmpeg/* -crf 14 /sdcard/ffmpeg/output_crf14.mp4" > crf14
+echo "ffmpeg -i /sdcard/ffmpeg/* -crf 18 /sdcard/ffmpeg/output_crf18.mp4" > crf18
+echo "ffmpeg -i /sdcard/ffmpeg/* -crf 24 /sdcard/ffmpeg/output_crf24.mp4" > crf24
+echo "ffmpeg -i /sdcard/ffmpeg/* -crf 28 /sdcard/ffmpeg/output_crf28.mp4" > crf28
+echo "ffmpeg -i /sdacrd/ffmpeg/* -crf 32 /sdcard/ffmpeg/output_crf32.mp4" > crf32
 
 chmod +x crf14
 chmod +x crf18
