@@ -1,4 +1,4 @@
-termux-serup-storage
+termux-setup-storage
 apt update 
 apt upgrade
 apt install ffmpeg -y
