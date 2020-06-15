@@ -1,4 +1,4 @@
-
+termux-serup-storage
 apt update 
 apt upgrade
 apt install ffmpeg -y
@@ -19,7 +19,7 @@ chmod +x crf24
 chmod +x crf28
 chmod +x crf32
 
-termux-serup-storage 
+termux-setup-storage 
 termux-setup-storage 
 termux-setup-storage 
 
